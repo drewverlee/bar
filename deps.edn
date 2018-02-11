@@ -1,3 +1,3 @@
 {:deps
- {github-drewverlee/foo
-  {:git/url "https://github.com/drewverlee/foo" :sha "84909250188b62adfdfb4bacd018c93ae238298e"}}}
+ {github-drewverlee/foo {:git/url "https://github.com/drewverlee/foo" :sha "611f3089150af0eb46b124bd3468860a5c39823c"}}}
+
